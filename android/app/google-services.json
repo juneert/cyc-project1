@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317939691542",
+    "project_id": "projectcyc-177ae",
+    "storage_bucket": "projectcyc-177ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317939691542:android:343f105f466c89e1564537",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.projectcyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317939691542-9m4od0mciuvobflc0imlh6f282evf20q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB3CUzTjC774qAqeSNm_wg_9n8cRBQ6rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317939691542-9m4od0mciuvobflc0imlh6f282evf20q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
